@@ -4,6 +4,7 @@ O objetivo desse repositório é listar as companhias que pretendem priorizar o 
 | Empresa | Fonte |
 | --- | --- |
 |Accor|https://www.panrotas.com.br/hotelaria/mercado/2020/11/accor-efetiva-home-office-no-centro-de-servicos-admistrativos_177889.html
+|Ambev-Tech|https://exame.com/carreira/cerveja-e-home-office-ambev-tem-os-dois-e-contrata-para-100-vagas-remotas/|
 |Carrefour|https://vocesa.abril.com.br/voce-rh/carrefour-trabalho-flexivel-permanente/|
 |Faceboook|https://g1.globo.com/economia/tecnologia/noticia/2020/05/21/zuckerberg-diz-que-facebook-adotara-trabalho-remoto-permanente.ghtml|
 |iFood|https://exame.com/inovacao/ifood-tera-trabalho-remoto-ate-junho-de-2021-e-adota-slack-para-feedback/|
