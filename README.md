@@ -1,5 +1,5 @@
 # Lista de companhias aderindo ao trabalho remoto
-O objetivo desse repositório é listar as companhias que pretendem priorizar o trabalho remoto ao invés do trabalho presencial.
+Update: o objetivo desse repositório é listar as companhias que tem aderido ou já aderiram ao trabalho remoto.
 
 | Empresa | Fonte |
 | --- | --- |
@@ -12,6 +12,7 @@ O objetivo desse repositório é listar as companhias que pretendem priorizar o 
 |Loggi|https://exame.com/negocios/loggi-estende-home-office-ate-dezembro-e-cria-vagas-100-remotas-por-que/|
 |Microsoft|https://www.theverge.com/2020/10/9/21508964/microsoft-remote-work-from-home-covid-19-coronavirus|
 |Petrobras | https://glo.bo/3leUuHF|
+|PicPay|https://exame.com/carreira/picpay-tem-mais-de-200-vagas-com-opcoes-de-trabalho-remoto/|
 |Shopify | https://www.shopify.com.br/blog/trabalho-remoto-e-sustentabilidade|
 |Spotify | https://www.business-standard.com/article/companies/spotify-will-let-employees-work-from-anywhere-even-after-covid-19-pandemic-121021300440_1.html|
 |Stone|https://exame.com/carreira/gostou-do-home-office-stone-contrata-para-vagas-remotas/|
